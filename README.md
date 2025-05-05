@@ -1,6 +1,6 @@
 # My Deep Learning Journey 🚀
 
-This repository documents my progress through deep learning and artificial intelligence, beginning with [CS50's Introduction to AI with Python](https://cs50.harvard.edu/ai/2020/).
+This repository documents my progress through deep learning and artificial intelligence, beginning with [CS50's Introduction to AI with Python](https://learning.edx.org/course/course-v1:HarvardX+CS50AI+1T2020/home).
 
 ## 🗂 Structure
 

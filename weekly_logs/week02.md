@@ -1,4 +1,3 @@
-```markdown
 # 🌱 Week 2 - May 12, 2025
 
 This week wasn’t as productive as the first one. I had a busy weekend and couldn’t dedicate as much time as I wanted to this project. Still, I made some progress, and I want to keep documenting everything — even the slower weeks count in the long run 📉➡️📈.
@@ -28,4 +27,3 @@ In general, this week felt slower, but that’s okay. I know that sometimes prog
 - Take the **Optimization lecture**  
 - Revisit **sampling vs. iteration** to solidify understanding  
 - Try to relate these concepts to real-world systems like search engines or ranking in games 
-``` 
